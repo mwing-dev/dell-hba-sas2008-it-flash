@@ -5,7 +5,7 @@ Let’s get this out of the way first: nothing in this repository is new, revolu
 This repository consolidates tools and steps from various forum posts, guides, and GitHub repositories (all credited below). Think of it less as original research and more as a carefully documented trail of breadcrumbs left behind after a *lot* of trial and error.
 
 I also want to be upfront: I can’t say with absolute certainty that **every** step here is strictly required. What I *can* say is that these are the exact steps that worked for me after multiple false starts, confusing error messages, and more reboots than I care to admit. If you’re here because you’re stuck, this path should get you unstuck.
-
+>I plan on getting a KVM soon and will record this process once I do.
 ---
 
 ## PREP
