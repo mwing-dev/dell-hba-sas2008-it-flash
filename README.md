@@ -72,16 +72,16 @@ Next, wipe the SBR and firmware entirely. This *may* be optional, but starting f
 
 Yes, this involves using DOS-era tooling, software that predates most modern firmware safeguards by a considerable margin.
 
-Write an empty SBR:
-
-```
-megarec.exe -writesbr 0 sbrempty.bin
-```
-
 Then clean the firmware:
 
 ```
 megarec.exe -cleanflash 0
+```
+
+Write an empty SBR:
+
+```
+megarec.exe -writesbr 0 sbrempty.bin
 ```
 
 ---
